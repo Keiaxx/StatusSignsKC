@@ -1,0 +1,10 @@
+name: StatusSigns
+version: 1.0
+description: Polls a specified minecraft server.
+author: Keiaxx
+website: http://keicraftmc.com/
+main: net.keiaxx.statussigns.StatusSigns
+commands:
+  statussigns:
+    description: Status of specified server.
+    usage: /statussigns <name>

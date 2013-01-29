@@ -1,0 +1,5 @@
+servers:
+  default: do.not.remove:25565
+signs: 
+- default #Do not remove
+
